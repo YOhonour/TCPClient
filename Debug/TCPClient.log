@@ -1,0 +1,13 @@
+﻿  TCPClient.cpp
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.h(40,1): warning C4005: “ReqLoginedUsrs”: 宏重定义
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.h(39): message : 参见“ReqLoginedUsrs”的前一个定义
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.h(187,10): warning C4101: “wsadata”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.h(283,44): warning C4244: “=”: 从“std::streamsize”转换到“ULONG”，可能丢失数据
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.h(284,10): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(18,24): warning C4101: “recvBuf”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(203,49): warning C4244: “=”: 从“std::streamsize”转换到“UINT”，可能丢失数据
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(71,21): warning C4101: “cUDPSocket”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(69,17): warning C4101: “ServerUDPPort”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(74,31): warning C4101: “BytesSent”: 未引用的局部变量
+C:\Users\Lenovo\source\repos\TCPClient\TCPClient.cpp(176,9): warning C4101: “ToUsr”: 未引用的局部变量
+  TCPClient.vcxproj -> C:\Users\Lenovo\source\repos\TCPServer\Debug\TCPClient.exe
